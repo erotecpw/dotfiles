@@ -1,0 +1,9 @@
+jellybeans.vim
+neobundle.vim
+neocomplcache
+neomru.vim
+nerdtree
+unite.vim
+vim-easymotion
+vim-unite-giti
+vimproc

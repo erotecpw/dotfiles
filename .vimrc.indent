@@ -1,0 +1,4 @@
+set shiftwidth=2                    " タブ文字の代わりにスペースを2個使う場合の設定
+set softtabstop=2
+set tabstop=2
+set expandtab
